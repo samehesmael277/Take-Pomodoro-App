@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Take Pomodoro</string>
+    <string name="pomodoro">Take a Pomodoro ...</string>
+    <string name="timer">25:00</string>
+    <string name="start">START</string>
+    <string name="reset"><u>Reset</u></string>
+    <string name="keep">Keep Going ...</string>
+</resources>
